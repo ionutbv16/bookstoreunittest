@@ -1,0 +1,14 @@
+{
+  "name": "angularproject",
+  "private": true,
+  "devDependencies": {
+
+    "http-server": ""
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "karma start test/karma.conf.js"
+  }
+}
