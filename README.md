@@ -1,6 +1,6 @@
 # bookstoreunittest
 Angular JS Controller with http get and unit test Jasmine for the http request
-Data is read from koos.json, we need a local server for not having CORS issues.
+Data is read from books.json, we need a local server for not having CORS issues.
 
 Step to install: 
 
