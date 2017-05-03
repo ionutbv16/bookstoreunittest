@@ -1,4 +1,7 @@
 # bookstoreunittest
+
+LIVE : http://angularc.placeinuk.info/
+
 Angular JS Controller with http get and unit test Jasmine for the http request
 Data is read from books.json, we need a local server for not having CORS issues.
 
